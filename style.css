@@ -1,0 +1,56 @@
+/* Chiphysi programación suscribete */
+/* V 0.1 original */
+/* Autor: Chiphysi  Autor: Jhonatan Cardona   */
+/* Derechos de autor(Suscribete) */
+ 
+
+.form{
+
+position:relative;
+width: 500px;
+height: 500px;
+padding-left: 20px;
+padding-top: 30px;
+background-color: #0D6BCE;
+border-radius: 50px;
+margin: auto; 
+
+}
+
+input[type=text],[type=email]{
+
+width: 470px;
+height: 35px;
+font: 14px normal normal uppercase helvatica, arial, serif;
+
+}
+
+
+input[type=submit]{
+	width: 150px;
+	height: 40px;
+	border-radius: 20px;
+	margin-left: 60px;
+	border: 0px;
+	background-color: #0097ff;
+	font: 14px normal normal uppercase helvatica, arial, serif;
+}
+
+p{
+text-shadow: 0 1px 0 #fff;
+font-size: 24px;
+
+}
+
+label{
+
+
+	margin:11px 20px 0 0;
+	font-size: 16px;
+	color: black;
+	text-transform: uppercase; 
+}
+
+
+
+
